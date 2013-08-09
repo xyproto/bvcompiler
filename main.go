@@ -1,7 +1,5 @@
 package main
 
-// Tiny first steps towards a \BV compiler (see http://icfpc2013.cloudapp.net/)
-
 import (
 	"fmt"
 	"strings"
